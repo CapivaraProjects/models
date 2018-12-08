@@ -5,7 +5,6 @@ from models.User import User
 
 class Analysis:
     """An Analysis object contains information about an executed image analysis.
-
     Attributes:
         id: Identification number of this object
         image: Image object that has been used for this Analysis
